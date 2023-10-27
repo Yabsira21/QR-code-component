@@ -24,13 +24,13 @@ img {
   margin-bottom: 25px;
 }
 
-h2,
+h1,
 p {
   text-align: center;
   line-height: 1.25;
 }
 
-h2 {
+h1 {
   font-weight: 700;
   font-size: 30px;
 }
