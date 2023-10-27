@@ -10,9 +10,9 @@ div {
   background-color: hsl(0, 0%, 100%);
   margin: 0 auto;
   position: relative;
-  top: 130px;
+  top: 100px;
   border-radius: 5%;
-  transform: scale(0.8);
+  transform: scale(0.75);
 }
 
 img {
@@ -31,7 +31,7 @@ p {
 }
 
 h2 {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 30px;
 }
 
