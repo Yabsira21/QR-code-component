@@ -12,6 +12,7 @@ div {
   position: relative;
   top: 130px;
   border-radius: 5%;
+  transform: scale(0.8);
 }
 
 img {
